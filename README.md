@@ -39,4 +39,4 @@ Of course, you’ll need to find the right balance between helping others and ge
 
 Code lots. Get help. Be helpful. Reap the rewards of the Learn community.
 
-<a href='https://learn.co/lessons/ask-a-question' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ask-a-question' title='Ask Questions on Learn'>Ask Questions on Learn</a> on Learn.co and start learning to code for free.</p>
