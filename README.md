@@ -8,7 +8,7 @@ We think it’s so cool, we want you to try it now! Go ahead, and hit the Ask a 
 
 Go on, we’ll wait for you =)
 
-![](http://curriculum-content.s3.amazonaws.com/intro-to-learn/try_ask_a_question.png)
+![AskAQuestion](https://curriculum-content.s3.amazonaws.com/intro-to-learn/AAQImage.png)
 
 ## No Really, Ask a Question!
 
