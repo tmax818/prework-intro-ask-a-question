@@ -12,7 +12,7 @@ Go on, we’ll wait for you =)
 
 ## No Really, Ask a Question!
 
-We mean it—we want to you try the feature out. So go ahead, and ask something, anything, right now. With any luck, someone will jump in almost immediately to help. Trust us, it’ll be fun.
+We mean it—we want you to try the feature out. So go ahead, and ask something, anything, right now. With any luck, someone will jump in almost immediately to help. Trust us, it’ll be fun.
 
 
 ## How it Works
@@ -40,3 +40,5 @@ Of course, you’ll need to find the right balance between helping others and ge
 Code lots. Get help. Be helpful. Reap the rewards of the Learn community.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ask-a-question' title='Ask Questions on Learn'>Ask Questions on Learn</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ask-a-question'>Asking A Question</a> on Learn.co and start learning to code for free.</p>
