@@ -25,7 +25,7 @@ When you ask a question, it’s always in the context of the lesson you’re cur
 
 Part of learning anything new is struggling on your own. To a large extent, the struggle is the way forward. So you should keep in mind, when working on labs on Learn, that getting something wrong and being a little bit confused is all part of the process. Don’t feel you should be reaching out every time you hit a roadblock. 
 
-However, when you’re truly stuck, when you’ve stared at your code for longer than is reasonable, or you’ve tried Googling for a solution with no luck, or a concept just completely eludes you and you need someone to walk you through it, then yes, absolutely, reach for the Ask a Question button and let the community help pull you up, help push you through the obstacle.  
+However, when you’re truly stuck, when you’ve stared at your code for longer than is reasonable, or you’ve tried Googling for a solution with no luck, or a concept just completely eludes you and you need someone to walk you through it, then yes, absolutely, reach for the Ask a Question button and let the community help pull you up and help push you through the obstacle.  
 
 ## Helping others
 
