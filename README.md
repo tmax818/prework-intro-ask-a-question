@@ -21,6 +21,8 @@ Now that you have a sense for what it feels like to ask a question, it’s worth
 
 When you ask a question, it’s always in the context of the lesson you’re currently looking at. Everyone that is currently working on this track who has completed this lesson will be notified, as well as a team of “Learn Experts”—professional developers who are also part of the Learn community and are dedicated to supporting your progress on Learn. So you may see another user jump in, or a Learn expert, or both. The whole idea is that Learn is a supportive community where everyone is helping each other learn to code. 
 
+When your question is resolved, hit 'mark as resolved' to close it out. 
+
 ## When to use it?
 
 Part of learning anything new is struggling on your own. To a large extent, the struggle is the way forward. So you should keep in mind, when working on labs on Learn, that getting something wrong and being a little bit confused is all part of the process. Don’t feel you should be reaching out every time you hit a roadblock. 
