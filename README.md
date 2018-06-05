@@ -19,11 +19,10 @@ to reach out and get support when they need.
 
 ## Get Help in Real Time
 
-When you Ask a Question on Learn, you’re reaching out, in real-time, to the
-Learn community — including other Learners like you working on the same
-curriculum track. In addition to this, there are also “Learn Experts” who are on
-hand 16 hours per day to help — and you can typically expect someone to get back
-to you in under a minute. That kind of responsiveness is pretty cool, right?
+When you Ask a Question on Learn, you’re reaching out, in real-time, to 
+“Technical Coaches” who are on hand 16 hours per day to help — and you can 
+typically expect someone to get back to you in under a minute. That kind of 
+responsiveness is pretty cool, right?
 
 ![AskAQuestion](https://curriculum-content.s3.amazonaws.com/intro-to-learn/AAQImage.png)
 
@@ -36,15 +35,13 @@ It’s worth taking a moment to understand what’s going on here.
 
 When you ask a question, it’s always in the context of the lesson you’re
 currently looking at. Everyone that is currently working on this track who has
-completed this lesson will be notified, as well as a team of “Learn
-Experts” — professional developers who are also part of the Learn community and
-are dedicated to supporting your progress on Learn. So you may see another user
-jump in, or a Learn expert, or both. The whole idea is that Learn is a
-supportive community where everyone is helping each other learn to code.
+completed this lesson will be notified, as well as a team of “Technical Coaches” 
+— professional developers who are also part of the Learn community and
+are dedicated to supporting your progress on Learn.
 
 When your question is resolved, hit 'mark as resolved' to close it out.
 
-## When to use it?
+## When to Use it?
 
 Part of learning anything new is struggling on your own. To a large extent, the
 struggle is the way forward. So you should keep in mind, when working on labs on
@@ -60,32 +57,14 @@ help pull you up and help push you through the obstacle.
 
 You can also ask for assistance if you've run into an issue.  Say for instance,
 you accidentally deleted an important file on a lab and aren't sure how to fix
-or recreate it. Our Learn Experts can help you troubleshoot and even jump on a
+or recreate it. Our Technucal Coaches can help you troubleshoot and even jump on a
 video call to find a solution.
-
-## Helping others
-
-When you get help, it’s only natural to feel like you want to help others too.
-It’s part of being human.
-
-So when other Learners ask questions, you should feel excited and proud to jump
-in and help them out when you’re able to. While the good karma is often
-incentive enough, you also personally benefit from answering questions.
-
-When you help a fellow Learner solve a problem, you deepen your own
-understanding. You gain a better understanding of the art of programming. You
-get to connect with another human being. It’s a powerful thing.
-
-Of course, you’ll need to find the right balance between helping others and
-getting into your own learning zone.
-
-Code lots. Get help. Be helpful. Reap the rewards of the Learn community.
 
 ## Conclusion
 
 Ultimately, you must forge your own journey and hold yourself to learning the
 concepts in this course. That doesn't mean, though, that you shouldn't ask for
-help. Think of the community around you as another tool you have to ensure your
+help. Think of Ask a Question as another tool you have to ensure your
 success, and do not hesitate to ask, even if the question seems simple.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ask-a-question'>Ask
