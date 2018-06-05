@@ -57,7 +57,7 @@ help pull you up and help push you through the obstacle.
 
 You can also ask for assistance if you've run into an issue.  Say for instance,
 you accidentally deleted an important file on a lab and aren't sure how to fix
-or recreate it. Our Technucal Coaches can help you troubleshoot and even jump on a
+or recreate it. Our Technical Coaches can help you troubleshoot and even jump on a
 video call to find a solution.
 
 ## Conclusion
