@@ -2,76 +2,107 @@
 
 ## Learning Goals
 
-- Better understand available resources
+- Better understand the purpose of Ask A Question (AAQ) and how it works
 
 ## Introduction
 
-It is absolutely possible to learn how to program entirely alone, following
-online tutorials and reading forum discussions. The problem is, what happens
-when you get stuck on something and can't figure it out? As in, _really stuck?_
-This is _going to happen_ during the process of learning how to code.
+As you go through the labs and lessons here, you do much of the work on your
+own. While this isn’t a bad thing (time for independent thinking and debugging
+is necessary!), you are going to get stuck sometimes! As with any new skill you
+learn, coding can be difficult and frustrating. After a certain point, being
+stuck on a problem becomes counterproductive - you’re stuck and you need help
+getting unstuck!
 
-Without a doubt, there is a value in improving your problem solving skills and
-persevering until you find a solution and get unstuck. Getting really stuck,
-however, can derail you for days and may even cause you to stop learning
-altogether. At the same time, very often, all that was really needed to get
-back on track was a point in the right direction or to see an example _just
-once_. Surely others have encountered the same or similar problems, and being
-able to connect directly with someone to talk out a problem significantly speeds
-up the time it takes to learn.
+Many aspects of learning are inherently social, and it helps to talk problems
+through with individuals who have experienced many of the same problems as you!
+That’s where Technical Coaches (TCs) come in.
 
-For this reason, Learn developed the Ask a Question feature, a way for students
-to reach out and get support when they need.
+## Who are TCs?
 
-## Get Help in Real Time
+TCs help students get unstuck and guide students through pair programming. TCs
+are a team of Flatiron graduates, so they are intimately familiar with Flatiron
+School's curriculum. Some are recent graduates, and some are currently at other
+development jobs outside of Flatiron. With this experience, they are perfectly
+suited to give you a nudge in the right direction! You’ll know you’re working
+with a TC if you see a blue Learn badge next to their profile picture.
 
-When you Ask a Question on Learn, you’re reaching out, in real-time, to
-“Technical Coaches” who are on hand 16 hours per day to help — and you can
-typically expect someone to get back to you in under a minute. That kind of
-responsiveness is pretty cool, right?
+![Technical Coach](https://curriculum-content.s3.amazonaws.com/prework/technical_coach.png)
 
-![AskAQuestion](https://curriculum-content.s3.amazonaws.com/intro-to-learn/AAQImage.png)
+## Get Help In Real Time
 
-Typically, you’d be asking about a problem you’re having with your current
-lesson, but feel free to ask anything you want and try the feature out!
+One of the great things about AAQ is the responsiveness of TCs - when TCs are
+online, you can generally expect to receive a response within a couple of
+minutes, provided that it isn’t very busy! While you can open a question in AAQ
+at any time of day,
+[TCs are only available for certain hours of the day][hours]. TCs generally
+support students through chat in AAQ and through 20-minute pairing sessions over
+Zoom. You can ask a question by clicking the purple “Ask A Question” button in
+the top right of your current lesson or lab.
 
-## How Ask a Question Works
+![AskAQuestion](https://curriculum-content.s3.amazonaws.com/prework/AAQButton.png)
 
-It’s worth taking a moment to understand what’s going on here.
+Questions must be related to the current lesson or lab that you are working on.
+AAQ does not support questions related to portfolio projects, code challenges,
+or other personal projects.
 
-When you ask a question, it’s always in the context of the lesson you’re
-currently looking at. Everyone that is currently working on this track who has
-completed this lesson will be notified, as well as a team of “Technical Coaches”
-— professional developers who are also part of the Learn community and
-are dedicated to supporting your progress on Learn.
+AAQ exists to help Flatiron students learn to debug their issues successfully.
+This gets easier with practice! Whenever possible, you should try to
+troubleshoot your issue independently first before seeking help.
 
-When your question is resolved, hit 'mark as resolved' to close it out.
+Some examples of independent troubleshooting might look like: Reading the Readme
+thoroughly for the lab you’re on to make sure you’re not missing relevant
+details Reviewing previous Learn lessons that may apply to the error or issue
+you’re experiencing Googling your error or related concepts Using debugging
+tools like pry to understand your error better
 
-## When to Use Ask a Question
+That being said, sometimes you are just stuck and truly need a hand - if you
+have tried the above solutions for 20-30 minutes, please feel free to open a
+question! We are happy to help. This article provides some pointers on
+[how to ask a question effectively.][how to]
 
-Part of learning anything new is struggling on your own. To a large extent, the
-struggle is the way forward. So you should keep in mind, when working on labs on
-Learn, that getting something wrong and being a little bit confused is all part
-of the process. Don’t feel you should be reaching out every time you hit a
-roadblock.
+## Who Do We Serve?
 
-However, when you’re truly stuck, when you’ve stared at your code for longer
-than is reasonable, or you’ve tried Googling for a solution with no luck, or a
-concept just completely eludes you and you need someone to walk you through it,
-then yes, absolutely, reach for the Ask a Question button and let the community
-help pull you up and help push you through the obstacle.
+Technical Coaches provide support for the programs listed in
+[this article][supported tracks]. At any given time there may be 2-5 TCs online;
+staffing is based on how busy it typically is during that time of day. Sometimes
+it gets very busy in AAQ unexpectedly! At any given time, there may be anywhere
+from 1-15 active questions (sometimes more!). Please be patient with us as we
+try to help.
 
-You can also ask for assistance if you've run into an issue. Say for instance,
-you accidentally deleted an important file on a lab and aren't sure how to fix
-or recreate it. Our Technical Coaches can help you troubleshoot and even jump on a
-video call to find a solution.
+## Why do Technical Coaches Not Give Out Answers?
+
+The goal at AAQ is to help students learn how to think critically about code -
+this doesn’t happen if we give you answers directly! We use a few different
+general strategies to help accomplish this goal:
+
+- We use the [Socratic method][] and other questioning techniques.
+- We may recommend that you Google certain concepts, or give you suggestions on
+  terms to Google
+- We may provide you with additional resources on a relevant coding concept to
+  supplement your understanding or help you to think about a problem differently
+- We may provide you with some [pseudocode][] or guide you to construct some
+  pseudocode yourself!
 
 ## Conclusion
 
-Ultimately, you must forge your own journey and hold yourself to learning the
-concepts in this course. That doesn't mean, though, that you shouldn't ask for
-help. Think of Ask a Question as another tool you have to ensure your
-success, and do not hesitate to ask, even if the question seems simple.
+Ask A Question is here to help support you as you continue your journey to learn
+to code. While ultimately you must hold yourself accountable for learning the
+concepts in this course, and for developing your debugging skills as a
+programmer, we are here to support you! If you are stuck, do not hesitate to ask
+for help!
+
+## Resources
+
+- [When are Technical Coaches Available?][hours]
+- [Socratic Method][]
+- [How to Pseudocode][pseudocode]
+
+[pseudocode]: https://www.wikihow.com/Write-Pseudocode
+[Socratic Method]: https://en.wikipedia.org/wiki/Socratic_method
+[how to]: https://docs.google.com/document/d/1jZ51Knmm1etX8InVifAra_jyyyICiR0CHzeoqi0WS3U/edit
+[supported tracks]: https://help.learn.co/en/articles/492978-does-my-program-or-course-have-technical-coach-support
+s
+[hours]: https://help.learn.co/en/articles/493006-when-are-technical-coaches-available
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ask-a-question'>Ask
 A Question on Learn</a> on Learn.co and start learning to code for free.</p>
