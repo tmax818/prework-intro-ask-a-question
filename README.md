@@ -93,15 +93,16 @@ for help!
 
 ## Resources
 
+- [Ask A Question Best Practices][how to]
 - [When are Technical Coaches Available?][hours]
 - [Socratic Method][]
 - [How to Pseudocode][pseudocode]
 
 [pseudocode]: https://www.wikihow.com/Write-Pseudocode
 [Socratic Method]: https://en.wikipedia.org/wiki/Socratic_method
-[how to]: https://docs.google.com/document/d/1jZ51Knmm1etX8InVifAra_jyyyICiR0CHzeoqi0WS3U/edit
+[how to]: https://help.learn.co/en/articles/3575055-ask-a-question-best-practices
 [supported tracks]: https://help.learn.co/en/articles/492978-does-my-program-or-course-have-technical-coach-support
-s
+
 [hours]: https://help.learn.co/en/articles/493006-when-are-technical-coaches-available
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ask-a-question'>Ask
