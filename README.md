@@ -66,7 +66,7 @@ question! We are happy to help. This article provides some pointers on
 
 Technical Coaches provide support for the programs listed in
 [this article][supported tracks]. At any given time there may be 2-5 TCs online;
-staffing is based on how busy it typically is during that time of day. Sometimes
+staffing is based on how busy it **typically** is during that time of day. Sometimes
 it gets very busy in AAQ unexpectedly! At any given time, there may be anywhere
 from 1-15 active questions (sometimes more!). Please be patient with us as we
 try to help.
