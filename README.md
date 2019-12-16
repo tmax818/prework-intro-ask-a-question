@@ -49,11 +49,13 @@ AAQ exists to help Flatiron students learn to debug their issues successfully.
 This gets easier with practice! Whenever possible, you should try to
 troubleshoot your issue independently first before seeking help.
 
-Some examples of independent troubleshooting might look like: Reading the Readme
-thoroughly for the lab you’re on to make sure you’re not missing relevant
-details Reviewing previous Learn lessons that may apply to the error or issue
-you’re experiencing Googling your error or related concepts Using debugging
-tools like pry to understand your error better
+Some examples of independent troubleshooting might look like:
+
+- Reading the Readme thoroughly for the lab you’re on to make sure you’re not missing relevant details
+- Reviewing previous Learn lessons that may apply to the error or issue
+you’re experiencing
+- Googling your error or related concepts
+- Using debugging tools like pry to understand your error better
 
 That being said, sometimes you are just stuck and truly need a hand - if you
 have tried the above solutions for 20-30 minutes, please feel free to open a
