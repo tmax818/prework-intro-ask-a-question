@@ -41,7 +41,7 @@ the top right of your current lesson or lab.
 
 ![AskAQuestion](https://curriculum-content.s3.amazonaws.com/prework/AAQButton.png)
 
-Questions must be related to the current lesson or lab that you are working on.
+**Questions must be related to the current lesson or lab that you are working on.**
 AAQ does not support questions related to portfolio projects, code challenges,
 or other personal projects.
 
