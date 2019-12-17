@@ -41,7 +41,7 @@ the top right of your current lesson or lab.
 
 ![AskAQuestion](https://curriculum-content.s3.amazonaws.com/prework/AAQButton.png)
 
-Questions must be related to the current lesson or lab that you are working on.
+**Questions must be related to the current lesson or lab that you are working on.**
 AAQ does not support questions related to portfolio projects, code challenges,
 or other personal projects.
 
@@ -49,11 +49,13 @@ AAQ exists to help Flatiron students learn to debug their issues successfully.
 This gets easier with practice! Whenever possible, you should try to
 troubleshoot your issue independently first before seeking help.
 
-Some examples of independent troubleshooting might look like: Reading the Readme
-thoroughly for the lab you’re on to make sure you’re not missing relevant
-details Reviewing previous Learn lessons that may apply to the error or issue
-you’re experiencing Googling your error or related concepts Using debugging
-tools like pry to understand your error better
+Some examples of independent troubleshooting might look like:
+
+- Reading the Readme thoroughly for the lab you’re on to make sure you’re not missing relevant details
+- Reviewing previous Learn lessons that may apply to the error or issue
+you’re experiencing
+- Googling your error or related concepts
+- Using debugging tools like pry to understand your error better
 
 That being said, sometimes you are just stuck and truly need a hand - if you
 have tried the above solutions for 20-30 minutes, please feel free to open a
@@ -64,7 +66,7 @@ question! We are happy to help. This article provides some pointers on
 
 Technical Coaches provide support for the programs listed in
 [this article][supported tracks]. At any given time there may be 2-5 TCs online;
-staffing is based on how busy it typically is during that time of day. Sometimes
+staffing is based on how busy it **typically** is during that time of day. Sometimes
 it gets very busy in AAQ unexpectedly! At any given time, there may be anywhere
 from 1-15 active questions (sometimes more!). Please be patient with us as we
 try to help.
