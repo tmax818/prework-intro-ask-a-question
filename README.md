@@ -62,7 +62,7 @@ have tried the above solutions for 20-30 minutes, please feel free to open a
 question! We are happy to help. This article provides some pointers on
 [how to ask a question effectively.][how to]
 
-## Who Do We Serve?
+## Who We Serve
 
 Technical Coaches provide support for the programs listed in
 [this article][supported tracks]. At any given time there may be 2-5 TCs online;
