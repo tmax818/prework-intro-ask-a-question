@@ -55,7 +55,7 @@ Some examples of independent troubleshooting might look like:
 - Reviewing previous Learn lessons that may apply to the error or issue
 you’re experiencing
 - Googling your error or related concepts
-- Using debugging tools like pry to understand your error better
+- Using debugging tools like [Pry](http://pry.github.io/) to understand your error better
 
 That being said, sometimes you are just stuck and truly need a hand - if you
 have tried the above solutions for 20-30 minutes, please feel free to open a
